@@ -1,0 +1,22 @@
+/* styles! */
+
+* {
+    background-color: beige;
+    color: rgb(0, 60, 68);
+    font-family: "Tahoma", Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+.img-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+}
